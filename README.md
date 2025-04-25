@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Kyaw Swar Hein</h1>
-<h3 align="center">A data Analyst and data scientist enthusiast</h3>
+<h3 align="center">AI/ML/DS</h3>
 <img align=“right” alt=“coding” src=“https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d83-41904f9e429f/df3kllr-32b45386-cb0b-4d18-8614-d9c5c5349294.gif”>
 
 - 🌱 I’m currently learning **Google Data Analytics (Coursera)**
@@ -8,8 +8,6 @@
 - 📫 How to reach me **ksheinmm@gmail.com**
 
 - 📄 Know about my experiences [https://kyaw-swar-hein-portfolio-opal.vercel.app/](https://kyaw-swar-hein-portfolio-opal.vercel.app/)
-
-- ⚡ Fun fact **I have iron deficiency.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
