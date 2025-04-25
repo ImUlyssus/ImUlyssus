@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ksheinmm@gmail.com**
 
-- 📄 Know about my experiences [https://kyaw-swar-hein-portfolio-opal.vercel.app/KyawSwarHein_CV.pdf](https://kyaw-swar-hein-portfolio-opal.vercel.app/KyawSwarHein_CV.pdf)
+- 📄 Know about my experiences [https://kyaw-swar-hein-portfolio-opal.vercel.app/](https://kyaw-swar-hein-portfolio-opal.vercel.app/)
 
 - ⚡ Fun fact **I have iron deficiency.**
 
