@@ -3,8 +3,6 @@
 <h3 align="center">AI/ML/DS</h3>
 <img align=“right” alt=“coding” src=“https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6fe91322-e36d-4aca-8d83-41904f9e429f/df3kllr-32b45386-cb0b-4d18-8614-d9c5c5349294.gif”>
 
-- 🌱 I’m currently learning **Google Data Analytics (Coursera)**
-
 - 📫 How to reach me **ksheinmm@gmail.com**
 
 - 📄 Know about my experiences [https://kyaw-swar-hein-portfolio-opal.vercel.app/](https://kyaw-swar-hein-portfolio-opal.vercel.app/)
